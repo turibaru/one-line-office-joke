@@ -2,7 +2,12 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const JOKE =
-  "I blocked my calendar as 'Focus Time' so nobody could book me, and now my boss books my Focus Time to discuss why I'm never available.";
+  "The office plant has survived three rounds of layoffs, and HR just asked it to mentor me.";
+
+// The joke lives as one plain string so the output is exactly one line.
+// A plant outlasting three layoff rounds says more than any meeting ever could.
+// HR picking the plant as my mentor flips the usual office pecking order.
+// One breath, one punchline, nothing extra to set up.
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
 

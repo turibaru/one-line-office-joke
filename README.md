@@ -7,3 +7,5 @@
 Entry for the [One-Line Office Joke: 24-Hour Sprint](https://make.fun/c/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162) bounty on make.fun.
 
 `main.ts` writes a single one-line joke about office life (at most 200 characters, no trailing newline) to `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `/output`).
+
+The joke: "The office plant has survived three rounds of layoffs, and HR just asked it to mentor me."
